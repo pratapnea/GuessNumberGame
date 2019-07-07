@@ -33,7 +33,7 @@ public class GuessNumberGame {
         // i.e. till win gets true
         while (!win){
 
-            System.out.print("Guess any number between 1 and "+ maxNum +": ");
+            System.out.print("Guess any number between 0 and "+ maxNum +": ");
             guess = read.nextInt();
             attempt++; //Increasing the number set in the variable attempt by 1
 
