@@ -5,6 +5,13 @@ import java.util.Scanner;
 
 import static java.lang.Thread.sleep;
 
+/**
+ * CREATED BY: Pratap Neaupane
+ * Dated on: Jul 7 2019
+ * Time: 03: 30 PM
+ * IDE used IntelliJ IDEA
+ * */
+
 public class GuessNumberGame {
 
     public static void main(String[] args) throws InterruptedException {
